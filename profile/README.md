@@ -1,6 +1,7 @@
 Website : https://mojox-inc.github.io/
 
-# 🌍 Hello, Ciao, Bonjour, 你好, こんにちは, Hola, Hallo!  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=34&pause=1000&color=000000&width=435&lines=Hello;Bonjour;Ciao;Hola;Hallo;%E4%BD%A0%E5%A5%BD;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF)](https://git.io/typing-svg)
 
 ### Welcome to our GitHub organization!  
 
